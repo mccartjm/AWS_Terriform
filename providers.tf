@@ -3,3 +3,8 @@ provider "aws" {
   secret_key = "Bw328BX77iCxTrh15oqpggwMcqot7/GvGl+EAkJV"
   region     = "us-east-1"
 }
+
+provider "http" {
+  
+}
+
